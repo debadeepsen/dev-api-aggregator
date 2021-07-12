@@ -1,0 +1,22 @@
+{
+  "name": "dev-api-aggregator",
+  "version": "1.0.0",
+  "description": "Aggregates the Dev.to API response into a single json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debadeepsen/dev-api-aggregator.git"
+  },
+  "author": "Debadeep Sen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debadeepsen/dev-api-aggregator/issues"
+  },
+  "homepage": "https://github.com/debadeepsen/dev-api-aggregator#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
